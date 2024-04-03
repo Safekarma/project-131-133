@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+}
+
+.btn
+{
+    font-size:20px;
+    border-radius:30px;
+    background-color:cyan;
+    color:crimson;
+width: 300px;
+}
